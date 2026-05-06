@@ -1,1 +1,5 @@
-GENEROS: romance, comedia, ação, terror e suspense
+romance 
+comedia
+ação
+terror
+suspense
